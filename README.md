@@ -1,5 +1,5 @@
-# react-projects-7-slider
+# react-basic-project-slider
 
 #### IN ACTION
 
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+[Slider Project](https://slider-template.netlify.app/)
